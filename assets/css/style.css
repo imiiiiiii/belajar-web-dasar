@@ -3,6 +3,10 @@
   box-sizing: border-box;
   text-decoration: none;
 }
+.nlink{
+  color: black;
+  font: bold;
+}
 
 html {
   scroll-behavior: smooth
@@ -30,7 +34,7 @@ main {
 }
 
 .jumbotron {
-  background: url("../img/IMG_20210605_160201.jpg");
+  background: url("../img/f2017979ae4f1fd165218d3709225e76.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
@@ -117,7 +121,7 @@ ul li {
 
 .logo {
   display: inline-block;
-  width: 65%;
+  width: 20%;
   margin-top: 15px;
   margin-left: 20px;
 }
@@ -187,6 +191,7 @@ ul li {
 
   .logo {
     margin-top: 0;
+
   }
 
   .nav-toggle {
